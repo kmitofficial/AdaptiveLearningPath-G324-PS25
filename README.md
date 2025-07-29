@@ -133,8 +133,8 @@ MIT
 | Name                  | GitHub Profile                                            | 
 | --------------------- | --------------------------------------------------------- | 
 | M.Sahasra             | https://github.com/sahasra2617                            | 
-| G.Ragasree            | https://github.com/Ragasree1420Vishesh Gupta              | 
-| S.Thahaseena          | https://github.com/Thahaseena0517G Shruthi                | 
+| G.Ragasree            | https://github.com/Ragasree1420                           | 
+| S.Thahaseena          | https://github.com/Thahaseena0517                         | 
 | V.Ashwin Kumar        | https://github.com/ashwin9000                             |
 | CH.Sirivally          | https://github.com/sirivallych                            | 
 | G.Sukumar             | https://github.com/sukumar9458                            | 
