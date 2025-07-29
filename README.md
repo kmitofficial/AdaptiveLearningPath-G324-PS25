@@ -144,7 +144,7 @@ MIT
 | G.Ragasree            | https://github.com/Ragasree1420                           | 
 | S.Thahaseena          | https://github.com/Thahaseena0517                         | 
 | V.Ashwin Kumar        | https://github.com/ashwin9000                             |
-| CH.Sirivally          | https://github.com/sirivallych                            | 
+| Ch.Sirivally          | https://github.com/sirivallych                            | 
 | G.Sukumar             | https://github.com/sukumar9458                            | 
 
 
