@@ -1,8 +1,10 @@
 🚀 EduEra – Your AI-Enhanced Learning Companion
+
 📌 Introduction
 Welcome to EduEra, a modern, AI-powered educational platform designed to make learning smarter and more interactive. EduEra leverages Google’s Gemini 2.0 Flash model to dynamically generate high-quality educational content across subjects and topics. Whether you’re a student or an educator, EduEra transforms your learning experience with personalized, AI-generated material.
 
 🎯 Purpose of the Project
+
 🌟 Smart Learning With AI
 Integrate generative AI to produce customized learning content based on topics and subtopics.
 
@@ -16,6 +18,7 @@ Utilize Google’s Gemini 2.0 Flash API to provide instant, reliable, and educat
 Ensure accessibility across devices with a modern and engaging user interface.
 
 🌍 Applications of the Project
+
 ✅ Student-Friendly Interface – A clean, responsive UI to explore subjects and subtopics effortlessly.
 
 ✅ AI-Generated Content – Automatically produce comprehensive topic material with examples, summaries, and structured learning.
@@ -55,6 +58,7 @@ Optimized for instruction-following tasks
 | Authentication | JWT + bcrypt            |
 
 ⚙️ Setup Instructions
+
 🔧 Prerequisites
 Node.js (v14 or above)
 
