@@ -17,9 +17,13 @@ Ensure accessibility across devices with a modern and engaging user interface.
 
 🌍 Applications of the Project
 ✅ Student-Friendly Interface – A clean, responsive UI to explore subjects and subtopics effortlessly.
+
 ✅ AI-Generated Content – Automatically produce comprehensive topic material with examples, summaries, and structured learning.
+
 ✅ Secure User Authentication – Signup, login, and password reset with token-based authentication.
+
 ✅ Topic Navigation – Navigate through categories, subtopics, and dynamically generated content.
+
 ✅ Scalable Architecture – Designed to grow with new subjects, topics, and AI capabilities.
 
 🔁 FEATURES:
