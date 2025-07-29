@@ -1,4 +1,4 @@
-🚀 EduEra – Your AI-Enhanced Learning Companion
+<img width="1500" height="861" alt="image" src="https://github.com/user-attachments/assets/819cbfd5-4758-4e38-9024-d4adca2763be" />🚀 EduEra – Your AI-Enhanced Learning Companion
 
 📌 Introduction
 Welcome to EduEra, a modern, AI-powered educational platform designed to make learning smarter and more interactive. EduEra leverages Google’s Gemini 2.0 Flash model to dynamically generate high-quality educational content across subjects and topics. Whether you’re a student or an educator, EduEra transforms your learning experience with personalized, AI-generated material.
@@ -16,6 +16,11 @@ Utilize Google’s Gemini 2.0 Flash API to provide instant, reliable, and educat
 
 📱 Responsive & User-Friendly Design
 Ensure accessibility across devices with a modern and engaging user interface.
+
+ARCHITECTURE DIAGRAM :
+<img width="1500" height="861" alt="image" src="https://github.com/user-attachments/assets/1637b935-f489-4ed2-b87d-6459620ed06a" />
+
+
 
 🌍 Applications of the Project
 
